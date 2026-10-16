@@ -5,7 +5,7 @@
 сгенерировать атаку и провести расследование инцидента.
 
 ## Стек
-- Windows 10 (VirtualBox)
+- Windows 11 (VirtualBox)
 - Sysmon (конфиг SwiftOnSecurity)
 - Wazuh / Splunk Free
 - MITRE ATT&CK для маппинга техник
